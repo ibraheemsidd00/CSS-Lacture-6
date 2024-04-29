@@ -1,0 +1,26 @@
+.box1{
+    background-color:green;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border: black 2px solid;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.box2{
+    background-color:green;
+    color: white;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border: black 2px solid;
+    border-radius: 10px;
+}
+
+.Ibraheem{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    height: 100%;
+}
